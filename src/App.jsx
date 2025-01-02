@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { GitHub, LinkedIn, Mail, Code } from "lucide-react";
+import { GitGraphIcon, TagIcon, Mail, Code } from "lucide-react";
 
 function App() {
   return (
@@ -89,7 +89,7 @@ function App() {
               rel="noopener noreferrer"
               style={{ color: "#555" }}
             >
-              <GitHub />
+              <GitGraphIcon />
             </a>
             <a
               href="https://linkedin.com/in/suyogmanandhar"
@@ -97,7 +97,7 @@ function App() {
               rel="noopener noreferrer"
               style={{ color: "#555" }}
             >
-              <LinkedIn />
+              <TagIcon />
             </a>
           </div>
         </motion.section>
