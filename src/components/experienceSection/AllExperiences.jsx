@@ -27,7 +27,7 @@ const experiences = [
   },
   {
     job: "Academic Courses ",
-    company: "Sprints",
+    company: "Coventry University",
     date: "2022 - 2025",
     responsibilities: [
       "Software Development",
